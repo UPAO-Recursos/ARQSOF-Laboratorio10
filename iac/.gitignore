@@ -1,0 +1,10 @@
+*.tfstate
+*.tfstate.*
+
+*.tfplan
+*.lock.hcl
+*.zip
+
+/bin
+
+**/.terraform/*
