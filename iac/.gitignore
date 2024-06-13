@@ -3,8 +3,7 @@
 
 *.tfplan
 *.lock.hcl
-*.zip
-
-/bin
 
 **/.terraform/*
+
+/bin
